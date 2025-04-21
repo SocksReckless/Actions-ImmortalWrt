@@ -23,3 +23,5 @@ sed -i '/telephony/d' feeds.conf.default
 #echo 'src-git sirpdboy https://github.com/sirpdboy/sirpdboy-package' >> feeds.conf.default
 #echo 'src-git daed https://github.com/QiuSimons/luci-app-daed' >> feeds.conf.default
 echo 'src-git daed https://github.com/xiaorouji/openwrt-passwall' >> feeds.conf.default
+echo 'src-git daed https://github.com/animegasan/luci-app-wolplus' >> feeds.conf.default
+echo 'src-git daed https://github.com/tty228/luci-app-wechatpush' >> feeds.conf.default
